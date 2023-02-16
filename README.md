@@ -3,7 +3,7 @@ This link contains: API, testing API and other.
 
 ## API
 This link contains a API project
-- [hmsi_app: API](https://github.com/kisahtegar/Test-API)
+- [hmsi_app: API](https://github.com/kisahtegar/API/tree/master/hmsi_app)
 
 ## Testing API
 This link contains a Testing API
