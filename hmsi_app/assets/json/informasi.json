@@ -1,0 +1,17 @@
+[
+    {
+        "title": "LDKO",
+        "imageUrl": "https://raw.githubusercontent.com/kisahtegar/API/master/hmsi_app/assets/images/ldko.jpg",
+        "link": ""
+    },
+    {
+        "title": "pelatihan",
+        "imageUrl": "https://raw.githubusercontent.com/kisahtegar/API/master/hmsi_app/assets/images/pelatihan.jpg",
+        "link": ""
+    },
+    {
+        "title": "semester",
+        "imageUrl": "https://raw.githubusercontent.com/kisahtegar/API/master/hmsi_app/assets/images/semester.png",
+        "link": ""
+    }
+]
